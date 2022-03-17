@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/badgers4837.lit-workshop-fork-l0ut2t4t",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve KrVN3Hf1wU3NYts0qxTj --open"
+  },
+  "dependencies": {
+    "firebase": "^8.0.0"
+  }
+}
